@@ -1,3 +1,5 @@
+![Pedro](pedro.png)
+
 # Pedro's Astronomy Page
 
 I am a lecturer at the School of Maths and Physics of Queen’s University Belfast and do research in solar system astronomy at the Astrophysics Research Centre.

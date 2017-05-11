@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Pedro's Colleagues"
+---
+
 # Colleagues
 Here is a list of people I work or have worked with in the past.
 

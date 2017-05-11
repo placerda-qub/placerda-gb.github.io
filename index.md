@@ -16,7 +16,7 @@ My past work has been mainly on physical properties of small bodies of the solar
 - [Sounds](http://soundcloud.com/corpode)
 
 ## Contact information
-Astrophysics Research Centre
+Astrophysics Research Centre  
 Queen’s University Belfast  
-Belfast, BT7 1NN   
-   United Kingdom
+Belfast, BT7 1NN  
+United Kingdom

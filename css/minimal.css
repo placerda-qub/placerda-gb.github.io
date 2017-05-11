@@ -4,7 +4,7 @@
 */
 
 /* Reset */
-* { margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+* { margin: 50; padding: 50; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
 /* Layout */
 body { width: 70%; background-color: #fff; color: #333;	font: 14px/20px "HelveticaNeue-Light", "HelveticaNeue", Helvetica, Arial, sans-serif; }
@@ -12,7 +12,7 @@ body { width: 70%; background-color: #fff; color: #333;	font: 14px/20px "Helveti
 header { width: 70%; margin: 0 auto; position: relative; padding: 20px 0; border-bottom: 1px solid #ddd; margin-bottom: 20px; }
 .logo { font-size: 28px; color: #333; }
 
-nav ul { margin: 10; }
+nav ul { margin: 0; }
 nav ul li { display: inline; margin-right: 20px; font-size: 16px; line-height: 28px; color: #333; }
 nav ul li a { color: #333; }
 

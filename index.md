@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Pedro's Astronomy Page"
+---
+
 ![Pedro](pedro.png)
 
 # Pedro's Astronomy Page

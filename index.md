@@ -6,7 +6,7 @@ I am a lecturer at the School of Maths and Physics of Queen’s University Belfa
 
 My past work has been mainly on physical properties of small bodies of the solar system, mainly Kuiper belt objects (KBOs), Centaurs, comets and Trojan asteroids.
 
-### Things about me
+## Things about me
 - [CV](http://go.qub.ac.uk/v4dbc)
 - [Publications](https://goo.gl/ziFXpu)
 - Teaching

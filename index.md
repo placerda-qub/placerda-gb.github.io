@@ -3,7 +3,7 @@ layout: default
 title: "Pedro's Astronomy Page"
 ---
 
-<img src="pedro.png" width="200" />
+![Pedro](pedro.png)
 
 # Pedro's Astronomy Page
 

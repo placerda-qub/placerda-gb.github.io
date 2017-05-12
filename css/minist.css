@@ -282,7 +282,7 @@ ul ul {
 
 img {
     display: block;
-    width: calc(100% + 4rem);
+/*    width: calc(100% + 4rem); */
     margin: 1rem -2rem;
 }
 
